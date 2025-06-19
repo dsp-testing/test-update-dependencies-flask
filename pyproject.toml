@@ -5,7 +5,6 @@ description = "Small web utility for more easily uploading photo(s) to PhotoPris
 authors = ["Radian LLC <contact+photoprismproxy@radian.codes>"]
 readme = "README.md"
 packages = [{ include = "photoprismproxy" }]
-python = "^3.10"
 
 [tool.poetry.dependencies]
 python = ">=3.10"
